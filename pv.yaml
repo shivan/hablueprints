@@ -14,8 +14,6 @@ blueprint:
       selector:
         device:
           integration: mqtt
-          manufacturer: Blueforcer
-          model: AWTRIX Light
           multiple: true
     power_source:
       name: Power Sensor
